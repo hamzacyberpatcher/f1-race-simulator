@@ -19,12 +19,12 @@ mkdir cache
 
 ### 3. Install the requirements
 
-**Install the requirements
+**Install the requirements**
 ```bash
 pip3 install -r requirements.txt
 ```
 
-###4. Run the script
+### 4. Run the script
 
 ```
 python3 race.py
